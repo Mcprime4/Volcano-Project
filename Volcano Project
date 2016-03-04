@@ -1,0 +1,67 @@
+<DOCTYPE! html>
+<html>
+    <head>
+        <title>Calbuco Volcano</title>
+        <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+      <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <style>
+        body{
+            background-color: bisque;
+        }    
+        
+    </style>
+    </head>
+    
+    <body>
+    
+    
+        <center><h1>Calbuco Volcano Erupts April 22, 2015</h1></center>
+        <div class="container">
+      <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+        <li><a data-toggle="tab" href="#pic">Pictures</a></li>
+        <li><a data-toggle="tab" href="#map">Map</a></li>
+        <li><a data-toggle="tab" href="#vol">Volcano Story</a></li>
+      </ul>
+
+      <div class="tab-content">
+        <div id="home" class="tab-pane fade in active">
+          <h3>Gallery</h3>
+          <img src="http://www.demilked.com/magazine/wp-content/uploads/2015/04/beautiful-scary-volcano-eruption-calbuco-chile-01.jpg">
+          <br>
+          <img src="http://i.dailymail.co.uk/i/pix/2015/04/23/08/27E3D44F00000578-3051500-image-a-3_1429775743302.jpg">
+          <br>
+          <img src="http://i.cbc.ca/1.3044948.1429748561!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/calbuco-volcano.jpg">
+          <br>
+          <img src="http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2015/04/23/volcano.jpg">
+          <br>
+          <img src="http://i.imgur.com/swFZ4mj.jpg">
+          <br>
+          <img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/23/1429784307597/9c863093-9d3f-49f5-b70c-880d0627756d-2060x1236.jpeg?w=460&q=85&auto=format&sharp=10&s=75808e12e8eaa4d2728c28af15a03a77">
+        </div>
+        <div id="pic" class="tab-pane fade">
+          <h3>Before and After Pictures</h3>
+          <p>Before</p>
+          <img src="http://cache3.asset-cache.net/gc/470863998-volcano-calbuco-spews-off-a-huge-ash-cloud-gettyimages.jpg?
+v=1&c=IWSAsset&k=2&d=GkZZ8bf5zL1ZiijUmxa7Qem0XgeQQAr%2BGETRRdj7JNQ5nI9BADUbI79Jn5ZVFecfU9LBUCpDg8z3WMFpazMRhw%3D%3D">
+          <p>After</p>
+          <img src="http://ichef.bbci.co.uk/news/624/media/images/82521000/jpg/_82521685_026883262-1.jpg">
+        </div>
+        <div id="map" class="tab-pane fade">
+          <h3>Map</h3>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15753.369911546253!2d-72.63504327571698!3d-41.32913764214367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9619d3d6f9397329%3A0xafd4dfaa59ea7b65!2sCalbuco%2C+Puerto+Varas%2C+Los+Lagos+Region%2C+Chile!5e1!3m2!1sen!2sus!4v1456933638677" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+        <div id="vol" class="tab-pane fade">
+          <h3>Volcano Story</h3>
+            <h4>As people stood peacefully in there land in Chile they heard a rumble. A loud rumble had come from a volcano nearby. There was smoke bellowing up from the top of the mountain. The people stood and staired for a second and then started to evacuate. There were more than one thousand who were trying to evacuate. They all hade to were masks so that they could filter the dust in the air. The calabacu mountain hadn't erupted in a very long time. There were no deaths or injurys or any kind.</h4>
+
+        </div>
+      </div>
+    </div>
+    
+    
+    </body>
+</html>
